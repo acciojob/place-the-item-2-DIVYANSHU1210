@@ -1,2 +1,19 @@
+.box1{
+	height:50px;
+	width:50px;
+	background-color:red;
+}
 
+.box2{
+	height:50px;
+	width:50px;
+	background-color:blue;
+}
+
+.container{
+	display:flex;
+	justify-content:center;
+	align-items: center; 
+	flex-wrap:wrap;
+}
 /* Your CSS Code here. */
